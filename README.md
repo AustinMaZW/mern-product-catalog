@@ -12,3 +12,7 @@ npm run build
 
 Start the app
 npm run start
+
+Deployed on Render.com
+https://mern-product-catalog.onrender.com
+site may be down due to inactivity
